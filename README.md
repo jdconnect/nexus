@@ -7,7 +7,7 @@
 <p align="center">
   <b>Vos agents IA, réunis dans une seule application.</b><br />
   Claude, ChatGPT (Codex), Gemini, GitHub Copilot… travaillent pour vous, se relisent entre eux,<br />
-  et vous validez en un clic, depuis l’ordinateur ou le téléphone.
+  et vous validez en un clic, depuis votre ordinateur ou votre téléphone.
 </p>
 
 <p align="center">
