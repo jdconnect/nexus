@@ -92,6 +92,16 @@ C’est prêt : dites à Nexus ce que vous voulez dans la barre en bas à droite
 - Les notifications où vous voulez : dans la pastille en haut de l’écran, dans les notifications Windows, ou les deux.
 - Mode clair ou sombre, en français ou en anglais.
 
+### Un atelier complet autour de vos IA
+
+- **Espace** : vos notes et votre documentation, rangées en pages. Chaque page peut être lue par les IA avant qu’elles travaillent, ou rester privée.
+- **Design** : des maquettes d’écrans que vous dessinez, que l’IA peut modifier à votre demande, puis transformer en code.
+- **Base de données** : ouvrez une base SQLite, PostgreSQL ou MySQL et parcourez-la en lecture. Avant toute modification, Nexus montre un aperçu, fait une sauvegarde et attend votre accord.
+- **Prospection** : les entreprises à démarcher, leurs étapes, vos notes et vos relances.
+- **Tableau de bord** : la consommation de chaque IA et les économies réalisées, au même endroit.
+- **Consigne optimisée** : avec Groq, Nexus raccourcit les très longues consignes avant de les envoyer, pour consommer moins ; le gain s’affiche dans le tableau de bord.
+- **Onglets à votre main** : les outils sont rangés par groupes ; vous affichez ceux qui vous servent par packs, et vous les rangez par glisser-déposer.
+
 ### Et aussi
 
 - **Créer des documents** : un devis en Word, un tableau en Excel, une présentation PowerPoint, une facture en PDF.
