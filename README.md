@@ -59,13 +59,13 @@ C’est prêt : dites à Nexus ce que vous voulez dans la barre en bas à droite
 
 ### Des agents qui travaillent en parallèle
 
-<p align="center"><img src="https://raw.githubusercontent.com/jdconnect/nexus/medias/accueil.webp" width="760" alt="Vue d’ensemble : les agents au travail, ce qui vous attend, la carte des projets"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jdconnect/nexus/medias/accueil.webp" width="760" alt="Vue d’ensemble : les agents au travail et ce qui vous attend"></p>
 
 - Chaque demande est confiée à un agent qui travaille sur une **copie isolée** de votre projet : votre dossier ne change pas tant que vous n’avez pas validé.
 - Un **second agent relit** le travail du premier (par exemple Codex relit Claude) avant qu’il n’arrive jusqu’à vous.
 - Vous voyez qui fait quoi, ce qui vous attend, et vous validez, faites corriger ou annulez en un clic.
 
-### Sous-tâches et priorités, comme dans Plane
+### Sous-tâches et priorités
 
 <p align="center"><img src="https://raw.githubusercontent.com/jdconnect/nexus/medias/sous-taches.webp" width="760" alt="Une tâche découpée en sous-tâches, chacune confiée à un agent, avec les priorités"></p>
 
@@ -77,7 +77,7 @@ C’est prêt : dites à Nexus ce que vous voulez dans la barre en bas à droite
 
 <p align="center"><img src="https://raw.githubusercontent.com/jdconnect/nexus/medias/constellation.webp" width="760" alt="La constellation d’un projet : tous ses dossiers et fichiers, et les agents au travail"></p>
 
-- Tous les dossiers et **tous les fichiers** du projet, ouvrables niveau par niveau, sans chevauchement.
+- Tous les dossiers et **tous les fichiers** du projet, ouvrables niveau par niveau ; zoomez, déplacez-vous, glissez chaque élément où vous voulez.
 - Les agents au travail autour du projet, avec leur avancement.
 - Un clic sur un fichier l’ouvre dans l’éditeur intégré.
 
@@ -91,6 +91,8 @@ C’est prêt : dites à Nexus ce que vous voulez dans la barre en bas à droite
 - Une application de bureau pour Windows, macOS et Linux, et une application pour le téléphone, où que vous soyez.
 - Les notifications où vous voulez : dans la pastille en haut de l’écran, dans les notifications Windows, ou les deux.
 - Mode clair ou sombre, en français ou en anglais.
+- **Sudo**, la mascotte de Nexus, mène les visites guidées et montre d’un coup d’œil si des agents travaillent ou si quelque chose vous attend.
+- **Mon compte** réunit votre profil, votre abonnement, le téléphone, les notifications et la voix.
 
 ### Un atelier complet autour de vos IA
 
@@ -152,7 +154,7 @@ Détails : [politique de confidentialité](https://jdconnect.fr/politique-confid
 
 ## ❓ Questions
 
-Une question, une idée, un souci ? Écrivez à **[contact@jdconnect.fr](mailto:contact@jdconnect.fr)**, ou utilisez « Signaler un problème » dans Nexus (Réglages › Général) : le rapport joint ne contient ni vos clés ni vos conversations.
+Une question, une idée, un souci ? Écrivez à **[contact@jdconnect.fr](mailto:contact@jdconnect.fr)**, ou utilisez le bouton 🐞 « Signaler un problème » en haut de Nexus : le rapport joint ne contient ni vos clés ni vos conversations.
 
 ---
 
