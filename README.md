@@ -81,6 +81,13 @@ C’est prêt : dites à Nexus ce que vous voulez dans la barre en bas à droite
 - Les agents au travail autour du projet, avec leur avancement.
 - Un clic sur un fichier l’ouvre dans l’éditeur intégré.
 
+### Le contrôle du PC, seulement avec votre accord
+
+- Une IA peut **utiliser vos applications** à votre place (lire l’écran, cliquer, remplir un champ) pour mener une tâche jusqu’au bout.
+- Rien ne se passe sans vous : Nexus affiche un avertissement, vous **cochez les applications** autorisées, puis vous lancez. Sans case cochée, la tâche part sans contrôle du PC.
+- L’IA passe par un filtre : elle ne voit et ne touche **que les applications cochées**, jamais Nexus lui-même, ni le presse-papiers, ni les captures d’écran. Les clés repérées à l’écran sont masquées.
+- Disponible depuis le formulaire d’une tâche, la conversation, la barre « Parler à Nexus » (au clavier ou à la voix) et le tchat d’une tâche en cours. Sous Windows pour l’instant.
+
 ### Sur l’ordinateur et sur le téléphone, en clair ou en sombre
 
 <p align="center">
